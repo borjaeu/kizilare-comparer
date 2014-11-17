@@ -1,10 +1,10 @@
 <?php
-namespace Kizilare;
+namespace Kizilare\Changes;
 
 /**
- * Detecte changes
+ * Detect changes
  */
-class Changes
+class Processor
 {
 
 	/**

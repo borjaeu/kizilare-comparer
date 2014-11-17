@@ -1,7 +1,7 @@
 {
     "name": "kizilare/changes",
     "type": "library",
-    "description": "Changes (Test)",
+    "description": "Changes processor to get difference between two strings",
     "version": "0.0.1",
     "homepage": "http://kizilare.net",
     "require": {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kizilare\\": "src/"
+            "Kizilare\\Changes\\": "src/"
         }
     },
     "minimum-stability": "dev",
