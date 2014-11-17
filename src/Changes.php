@@ -1,5 +1,5 @@
 <?php
-namespace Common\Helper;
+namespace Kizilare;
 
 /**
  * Detecte changes
